@@ -42,4 +42,5 @@
 | **3D CVF** (3D-CVF: Generating Joint Camera and LiDAR Features Using Cross-View Spatial Feature Fusion for 3D Object Detection) | ECCV2020           | I+L   |
 | **HotSpotNet** (Object as Hotspots: An Anchor-Free 3D Object Detection Approach via Firing of Hotspots) | ECCV2020           | L     |
 | **SSN** (SSN: Shape Signature Networks for Multi-class Object Detection from Point Clouds) | Arxiv2020          | L     |
+| **CenterPoint** (Center-based 3D Object Detection and Tracking) | Arxiv2020          | L     |
 | To be continued...                                           |                    |       |
