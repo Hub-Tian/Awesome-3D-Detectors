@@ -95,7 +95,7 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
 
   Benchmark supported: **KITTI**.
 
-  [TANet](https://github.com/happinesslz/TANet): "*TANet: Robust 3D Object Detection from Point Clouds with Triple Attention*" in **Pytorch**.
+- [TANet](https://github.com/happinesslz/TANet): "*TANet: Robust 3D Object Detection from Point Clouds with Triple Attention*" in **Pytorch**.
 
   Methods supported : **TANet** (PointPillars, Second).
 
