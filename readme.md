@@ -77,7 +77,7 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
 
   Benchmark supported:  **nuScenes**.
 
-- SA-SSD: "SA-SSD: *Structure Aware Single-stage 3D Object Detection from Point Cloud*" in **pytorch**
+- [SA-SSD](https://github.com/skyhehe123/SA-SSD): "SA-SSD: *Structure Aware Single-stage 3D Object Detection from Point Cloud*" in **pytorch**
 
   Methods supported : **SA-SSD**.
   
