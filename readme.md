@@ -1,8 +1,10 @@
 
 
-# Paper list of 3D detection methods
+# List of 3D detection methods
 
-This is a paper list of some awesome 3D detection methods. We mainly collect LiDAR-involved methods in autonomous driving. 
+This is a paper and code list of some awesome 3D detection methods. We mainly collect LiDAR-involved methods in autonomous driving. 
+
+## Paper list
 
 | Title                                                        | Pub.               | Input |
 | ------------------------------------------------------------ | ------------------ | ----- |
@@ -48,3 +50,53 @@ This is a paper list of some awesome 3D detection methods. We mainly collect LiD
 | **SSN** (SSN: Shape Signature Networks for Multi-class Object Detection from Point Clouds) | Arxiv2020          | L     |
 | **CenterPoint** (Center-based 3D Object Detection and Tracking) | Arxiv2020          | L     |
 | To be continued...                                           |                    |       |
+
+## Code list
+
+- [Det3d](https://github.com/poodarchu/det3d): A general 3D Object Detection codebase in **PyTorch**. 
+
+  Methods supported : **PointPillars**, **SECOND**, **PIXOR**.
+
+  Benchmark supported: **KITTI**, **nuScenes**, **Lyft**.
+
+- [second.pytorch](https://github.com/traveller59/second.pytorch): SECOND detector in **Pytorch**.
+
+  Methods supported : **PointPillars**, **SECOND**.
+
+  Benchmark supported: **KITTI**, **nuScenes**.
+  
+- [OpenPCDet](https://github.com/open-mmlab/OpenPCDet): An open source project for LiDAR-based 3D scene perception in **Pytorch**.
+
+  Methods supported : **PointPillars**, **SECOND**, **Part A^2**, **PV-RCNN**, PointRCNN(ongoing).
+
+  Benchmark supported: **KITTI**, Waymo (ongoing).
+  
+- [CenterPoint](https://github.com/tianweiy/CenterPoint): "*Center-based 3D Object Detection and Tracking*" in **Pytorch**.
+
+  Methods supported : **CenterPoint-Pillar**, **Center-Voxel**.
+
+  Benchmark supported:  **nuScenes**.
+
+- SA-SSD: "SA-SSD: *Structure Aware Single-stage 3D Object Detection from Point Cloud*" in **pytorch**
+
+  Methods supported : **SA-SSD**.
+  
+  Benchmark supported: **KITTI**.
+  
+- [3DSSD](https://github.com/Jia-Research-Lab/3DSSD): "*Point-based 3D Single Stage Object Detector* " in Tensorflow.
+
+  Methods supported : **3DSSD**, **PointRCNN**, STD (ongoing).
+
+  Benchmark supported: **KITTI**, nuScenes (ongoing).
+
+- [Point-GNN](https://github.com/WeijingShi/Point-GNN): "Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud" inTensorflow.
+
+  Methods supported : Point-GNN.
+
+  Benchmark supported: **KITTI**.
+
+  [TANet](https://github.com/happinesslz/TANet): "*TANet: Robust 3D Object Detection from Point Clouds with Triple Attention*" in **Pytorch**.
+
+  Methods supported : **TANet** (PointPillars, Second).
+
+  Benchmark supported: **KITTI**.
