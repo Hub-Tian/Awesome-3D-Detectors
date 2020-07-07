@@ -89,7 +89,7 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
 
   Benchmark supported: **KITTI**, nuScenes (ongoing).
 
-- [Point-GNN](https://github.com/WeijingShi/Point-GNN): "Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud" inTensorflow.
+- [Point-GNN](https://github.com/WeijingShi/Point-GNN): "Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud" in **Tensorflow**.
 
   Methods supported : Point-GNN.
 
