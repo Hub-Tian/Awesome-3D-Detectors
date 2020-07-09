@@ -101,3 +101,47 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
   Methods supported : **TANet** (PointPillars, Second).
 
   Benchmark supported: **KITTI**.
+
+## Dataset list
+
+(reference: https://mp.weixin.qq.com/s/3mpbulAgiwi5J66MzPNpJA from WeChat official account: "CNNer"*)
+
+- **KITTI**
+
+  Website: http://www.cvlibs.net/datasets/kitti/raw_data.php
+
+  Paper: http://www.cvlibs.net/publications/Geiger2013IJRR.pdf
+
+- **Waymo**
+
+  Website: https://waymo.com/open
+
+  Paper: https://arxiv.org/abs/1912.04838v5
+
+- **NuScenes**
+
+  Website: https://www.nuscenes.org/
+
+  Paper: https://arxiv.org/abs/1903.11027
+
+- **Lyft**
+
+  Website: https://level5.lyft.com/
+
+  Paper: https://level5.lyft.com/dataset/
+
+- **Audi autonomous driving dataset**
+
+  Website: http://www.a2d2.audi
+
+  Paper: https://arxiv.org/abs/2004.06320
+
+- **Apollo**
+
+  Website: http://apolloscape.auto/
+
+  Paper: https://arxiv.org/pdf/1803.06184.pdf
+
+  
+
+  
