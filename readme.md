@@ -49,6 +49,7 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
 | **HotSpotNet** (Object as Hotspots: An Anchor-Free 3D Object Detection Approach via Firing of Hotspots) | ECCV2020           | L     |
 | **SSN** (SSN: Shape Signature Networks for Multi-class Object Detection from Point Clouds) | Arxiv2020          | L     |
 | **CenterPoint** (Center-based 3D Object Detection and Tracking) | Arxiv2020          | L     |
+| **AFDet** (AFDet: Anchor Free One Stage 3D Object Detection) | Waymo2020          | L     |
 | To be continued...                                           |                    |       |
 
 ## Code list
@@ -83,7 +84,7 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
   
   Benchmark supported: **KITTI**.
   
-- [3DSSD](https://github.com/Jia-Research-Lab/3DSSD): "*Point-based 3D Single Stage Object Detector* " in Tensorflow.
+- [3DSSD](https://github.com/Jia-Research-Lab/3DSSD): "*Point-based 3D Single Stage Object Detector* " in **Tensorflow**.
 
   Methods supported : **3DSSD**, **PointRCNN**, STD (ongoing).
 
@@ -91,7 +92,7 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
 
 - [Point-GNN](https://github.com/WeijingShi/Point-GNN): "Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud" in **Tensorflow**.
 
-  Methods supported : Point-GNN.
+  Methods supported : **Point-GNN**.
 
   Benchmark supported: **KITTI**.
 
