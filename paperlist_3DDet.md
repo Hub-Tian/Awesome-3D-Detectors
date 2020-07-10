@@ -38,6 +38,7 @@
 | **Point GNN** (Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud) | CVPR2020           | L     |
 | **SA-SSD** (Structure Aware Single-stage 3D Object Detection from Point Cloud) | CVPR2020           | L     |
 | (What You See is What You Get: Exploiting Visibility for 3D Object Detection) | CVPR2020           | L     |
+| **DOPS** (DOPS: Learning to Detect 3D Objects and Predict their 3D Shapes) | CVPR2020           | L     |
 | **3D IoU-Net** (3D IoU-Net: IoU Guided 3D Object Detector for Point Clouds) | Arxiv2020          | L     |
 | **3D CVF** (3D-CVF: Generating Joint Camera and LiDAR Features Using Cross-View Spatial Feature Fusion for 3D Object Detection) | ECCV2020           | I+L   |
 | **HotSpotNet** (Object as Hotspots: An Anchor-Free 3D Object Detection Approach via Firing of Hotspots) | ECCV2020           | L     |
