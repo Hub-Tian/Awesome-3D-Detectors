@@ -4,7 +4,7 @@
 
 This is a paper and code list of some awesome 3D detection methods. We mainly collect LiDAR-involved methods in autonomous driving. 
 
-![paperlist](C:\Users\TianSir\Desktop\寒假工作\paper_reading\report\paperlist.png)
+![paperlist-map](https://github.com/Hub-Tian/Awesome-3D-Detectors/blob/master/paperlist.png)
 
 ## Paper list
 
