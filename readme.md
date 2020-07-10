@@ -4,6 +4,8 @@
 
 This is a paper and code list of some awesome 3D detection methods. We mainly collect LiDAR-involved methods in autonomous driving. 
 
+![paperlist](C:\Users\TianSir\Desktop\寒假工作\paper_reading\report\paperlist.png)
+
 ## Paper list
 
 | Title                                                        | Pub.               | Input |
@@ -104,7 +106,7 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
 
 ## Dataset list
 
-(reference: https://mp.weixin.qq.com/s/3mpbulAgiwi5J66MzPNpJA from WeChat official account: "CNNer"*)
+(reference: https://mp.weixin.qq.com/s/3mpbulAgiwi5J66MzPNpJA from WeChat official account: "CNNer")
 
 - **KITTI**
 
