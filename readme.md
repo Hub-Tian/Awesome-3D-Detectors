@@ -53,6 +53,7 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
 | **SSN** (SSN: Shape Signature Networks for Multi-class Object Detection from Point Clouds) | Arxiv2020          | L     |
 | **CenterPoint** (Center-based 3D Object Detection and Tracking) | Arxiv2020          | L     |
 | **AFDet** (AFDet: Anchor Free One Stage 3D Object Detection) | Waymo2020          | L     |
+| **LGR-Net** (Local Grid Rendering Networks for 3D Object Detection in Point Clouds) | arxiv2020.07       | L     |
 | To be continued...                                           |                    |       |
 
 ## Code list
