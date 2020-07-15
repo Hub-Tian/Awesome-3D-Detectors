@@ -54,6 +54,7 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
 | **CenterPoint** (Center-based 3D Object Detection and Tracking) | Arxiv2020          | L     |
 | **AFDet** (AFDet: Anchor Free One Stage 3D Object Detection) | Waymo2020          | L     |
 | **LGR-Net** (Local Grid Rendering Networks for 3D Object Detection in Point Clouds) | arxiv2020.07       | L     |
+| **CenterNet3D** (CenterNet3D:An Anchor free Object Detector for Autonomous Driving) | arxiv2020.07       | L     |
 | To be continued...                                           |                    |       |
 
 ## Code list
