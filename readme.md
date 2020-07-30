@@ -18,6 +18,7 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
 | **ContFusion** (Deep Continuous Fusion for Multi-Sensor 3D Object Detection) | ECCV2018           | I+L   |
 | **SECOND** (SECOND: Sparsely Embedded Convolutional Detection) | Sensors 2018       | L     |
 | **Complex-YOLO** (Complex-YOLO: Real-time 3D Object Detection on Point Clouds) | Axiv2018           | L     |
+| **FBF**（Fusing Bird’s Eye View LIDAR Point Cloud and Front View Camera Image for Deep Object Detection） | Arxiv2018          | I+L   |
 | **RoarNet** (RoarNet: A Robust 3D Object Detection based on Region Approximation Refinement) | IV2019             | I+L   |
 | **PVCNN** (Point-Voxel CNN for Efficient 3D Deep Learning)   | NIPS2019           | L     |
 | **MMF** (Multi-Task Multi-Sensor Fusion for 3D Object Detection) | CVPR2019           | I+L   |
