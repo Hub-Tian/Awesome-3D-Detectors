@@ -2,7 +2,7 @@
 
 # List of 3D detection methods
 
-This is a paper and code list of some awesome 3D detection methods. We mainly collect LiDAR-involved methods in autonomous driving. 
+This is a paper and code list of some awesome 3D detection methods. We mainly collect LiDAR-involved methods in autonomous driving. It is worth noticing that we include both official and unofficial codes for each paper. 
 
 ![paperlist-map](https://github.com/Hub-Tian/Awesome-3D-Detectors/blob/master/paperlist.png)
 
@@ -35,7 +35,7 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
 | **F-ConvNet** (Frustum ConvNet: Sliding Frustums to Aggregate Local Point-Wise Features for Amodal 3D Object Detection) | IROS2019           | I+L   |
 | **PI-RCNN**（An Efficient Multi-sensor 3D Object Detector with Point-based Attentive Cont-conv Fusion Module） | AAAI2020           | I+L   |
 | **TANet** (TANet: Robust 3D Object Detection from Point Clouds with Triple Attention) [code](https://github.com/happinesslz/TANet) | AAAI2020           | L     |
-| **MVF** (End-to-end multi-view fusion for 3d object detection in lidar point clouds) [code](https://github.com/Fanziapril/mvfnet) | ICRL2020           | L     |
+| **MVF** (End-to-end multi-view fusion for 3d object detection in lidar point clouds) [code](https://github.com/AndyYuan96/End-to-End-Multi-View-Fusion-for-3D-Object-Detection-in-LiDAR-Point-Clouds) | ICRL2020           | L     |
 | **SegVoxelNet** (SegVoxelNet: Exploring Semantic Context and Depth-aware Features for 3D Vehicle Detection from Point Cloud) | ICRA2020           | L     |
 | **Voxel-FPN** (Voxel-FPN: multi-scale voxel feature aggregation in 3D object detection from point clouds) | Sensors 2020       | L     |
 | **AA3D** (Adaptive and Azimuth-Aware Fusion Network of Multimodal Local Features for 3D Object Detection) | Neurocomputing2020 | I+L   |
