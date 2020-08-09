@@ -65,6 +65,12 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
 
 ## Code list
 
+- [mmdetection3d](https://github.com/open-mmlab/mmdetection3d) in **pytorch**
+
+  Methods supported: **SECOND, PointPillars, FreeAnchor, VoteNet, Part-A2, MVXNet**
+
+  Benchmark supported: **KITTI**, **nuScenes**, **Lyft**, **ScanNet**, **SUNRGBD**
+
 - [Det3d](https://github.com/poodarchu/det3d): A general 3D Object Detection codebase in **PyTorch**. 
 
   Methods supported : **PointPillars**, **SECOND**, **PIXOR**.
@@ -76,13 +82,13 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
   Methods supported : **PointPillars**, **SECOND**.
 
   Benchmark supported: **KITTI**, **nuScenes**.
-  
+
 - [OpenPCDet](https://github.com/open-mmlab/OpenPCDet): An open source project for LiDAR-based 3D scene perception in **Pytorch**.
 
   Methods supported : **PointPillars**, **SECOND**, **Part A^2**, **PV-RCNN**, PointRCNN(ongoing).
 
   Benchmark supported: **KITTI**, Waymo (ongoing).
-  
+
 - [CenterPoint](https://github.com/tianweiy/CenterPoint): "*Center-based 3D Object Detection and Tracking*" in **Pytorch**.
 
   Methods supported : **CenterPoint-Pillar**, **Center-Voxel**.
@@ -92,9 +98,9 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
 - [SA-SSD](https://github.com/skyhehe123/SA-SSD): "SA-SSD: *Structure Aware Single-stage 3D Object Detection from Point Cloud*" in **pytorch**
 
   Methods supported : **SA-SSD**.
-  
+
   Benchmark supported: **KITTI**.
-  
+
 - [3DSSD](https://github.com/Jia-Research-Lab/3DSSD): "*Point-based 3D Single Stage Object Detector* " in **Tensorflow**.
 
   Methods supported : **3DSSD**, **PointRCNN**, STD (ongoing).
@@ -112,7 +118,7 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
   Methods supported : **TANet** (PointPillars, Second).
 
   Benchmark supported: **KITTI**.
-  
+
 - [Complex-YOLOv4-pytorch](https://github.com/maudzung/Complex-YOLOv4-Pytorch): " Complex-YOLO: Real-time 3D Object Detection on Point Clouds)" in **pytorch**.
 
   Methods supported : **YOLO**
