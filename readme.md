@@ -54,6 +54,7 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
 | **HotSpotNet** (Object as Hotspots: An Anchor-Free 3D Object Detection Approach via Firing of Hotspots) | ECCV2020           | L     |
 | **EPNet**: (EPNet: Enhancing Point Features with Image Semantics for 3D Object Detection) [code](https://github.com/happinesslz/EPNet) | ECCV2020           | I+L   |
 | Weakly Supervised 3D Object Detection from Lidar Point Cloud | ECCV2020           | L     |
+| Pillar-based Object Detection for Autonomous Driving [code](https://github.com/WangYueFt/pillar-od) | ECCV2020           | L     |
 | **SSN** (SSN: Shape Signature Networks for Multi-class Object Detection from Point Clouds) | Arxiv2020          | L     |
 | **CenterPoint** (Center-based 3D Object Detection and Tracking) [code](https://github.com/tianweiy/CenterPoint) | Arxiv2020          | L     |
 | **AFDet** (AFDet: Anchor Free One Stage 3D Object Detection) | Waymo2020          | L     |
@@ -119,12 +120,11 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
   Benchmark supported: **KITTI**.
 
 - [EPNet](https://github.com/happinesslz/EPNet): "EPNet: Enhancing Point Features with Image Semantics for 3D Object Detection  "
-  
+
   Methods supported: **EPNet**
-  
+
   Benchmark supported: **KITTI**, **SUN-RGBD**
-  
-  
+
 
 ## Dataset list
 
@@ -165,7 +165,3 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
   Website: http://apolloscape.auto/
 
   Paper: https://arxiv.org/pdf/1803.06184.pdf
-
-  
-
-  
