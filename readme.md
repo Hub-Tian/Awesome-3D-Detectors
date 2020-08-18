@@ -8,6 +8,8 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
 
 ## Paper list
 
+
+
 | Title                                                        | Pub.               | Input |
 | ------------------------------------------------------------ | ------------------ | ----- |
 | **MV3D** (Multi-View 3D Object Detection Network for Autonomous Driving) | CVPR2017           | I+L   |
@@ -61,6 +63,7 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
 | **LGR-Net** (Local Grid Rendering Networks for 3D Object Detection in Point Clouds) | arxiv2020.07       | L     |
 | **CenterNet3D** (CenterNet3D:An Anchor free Object Detector for Autonomous Driving) | arxiv2020.07       | L     |
 | **RCD** (Range Conditioned Dilated Convolutions for Scale Invariant 3D Object Detection) | arxiv2020.06       | L     |
+| Weakly Supervised 3D Object Detection from Point Clouds [code](https://github.com/Zengyi-Qin/Weakly-Supervised-3D-Object-Detection) | ACM MM2020         | I+L   |
 | To be continued...                                           |                    |       |
 
 ## Code list
@@ -70,6 +73,12 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
   Methods supported: **SECOND, PointPillars, FreeAnchor, VoteNet, Part-A2, MVXNet**
 
   Benchmark supported: **KITTI**, **nuScenes**, **Lyft**, **ScanNet**, **SUNRGBD**
+
+- [OpenPCDet](https://github.com/open-mmlab/OpenPCDet): An open source project for LiDAR-based 3D scene perception in **Pytorch**.
+
+  Methods supported : **PointPillars**, **SECOND**, **Part A^2**, **PV-RCNN**, PointRCNN(ongoing).
+
+  Benchmark supported: **KITTI**, Waymo (ongoing).
 
 - [Det3d](https://github.com/poodarchu/det3d): A general 3D Object Detection codebase in **PyTorch**. 
 
@@ -82,13 +91,6 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
   Methods supported : **PointPillars**, **SECOND**.
 
   Benchmark supported: **KITTI**, **nuScenes**.
-
-- [OpenPCDet](https://github.com/open-mmlab/OpenPCDet): An open source project for LiDAR-based 3D scene perception in **Pytorch**.
-
-  Methods supported : **PointPillars**, **SECOND**, **Part A^2**, **PV-RCNN**, PointRCNN(ongoing).
-
-  Benchmark supported: **KITTI**, Waymo (ongoing).
-
 - [CenterPoint](https://github.com/tianweiy/CenterPoint): "*Center-based 3D Object Detection and Tracking*" in **Pytorch**.
 
   Methods supported : **CenterPoint-Pillar**, **Center-Voxel**.
