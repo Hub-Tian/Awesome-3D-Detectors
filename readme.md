@@ -91,6 +91,7 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
   Methods supported : **PointPillars**, **SECOND**.
 
   Benchmark supported: **KITTI**, **nuScenes**.
+
 - [CenterPoint](https://github.com/tianweiy/CenterPoint): "*Center-based 3D Object Detection and Tracking*" in **Pytorch**.
 
   Methods supported : **CenterPoint-Pillar**, **Center-Voxel**.
@@ -132,6 +133,10 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
   Methods supported: **EPNet**
 
   Benchmark supported: **KITTI**, **SUN-RGBD**
+
+- [Super Fast and Accurate 3D Detector](https://github.com/maudzung/Super-Fast-Accurate-3D-Object-Detection):"Super Fast and Accurate 3D Object Detection based on 3D LiDAR Point Clouds"
+
+  Benchmark supported: **KITTI**
 
 
 ## Dataset list
