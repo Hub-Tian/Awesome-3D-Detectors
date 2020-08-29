@@ -96,7 +96,7 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
 
   Methods supported : **CenterPoint-Pillar**, **Center-Voxel**.
 
-  Benchmark supported:  **nuScenes**.
+  Benchmark supported:  **nuScenes**，**Waymo**.
 
 - [SA-SSD](https://github.com/skyhehe123/SA-SSD): "SA-SSD: *Structure Aware Single-stage 3D Object Detection from Point Cloud*" in **pytorch**
 
