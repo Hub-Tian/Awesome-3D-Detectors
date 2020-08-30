@@ -6,6 +6,10 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
 
 ![paperlist-map](https://github.com/Hub-Tian/Awesome-3D-Detectors/blob/master/paperlist.png)
 
+## News
+
+*2020.08.30 10 a.m.* Add **LC-MV** from UBer "Multi-View Fusion of Sensor Data for Improved Perception and Prediction in Autonomous Driving "
+
 ## Paper list
 
 
