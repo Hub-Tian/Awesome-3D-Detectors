@@ -10,6 +10,8 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
 
 
 
+
+
 | Title                                                        | Pub.               | Input |
 | ------------------------------------------------------------ | ------------------ | ----- |
 | **MV3D** (Multi-View 3D Object Detection Network for Autonomous Driving) | CVPR2017           | I+L   |
@@ -64,6 +66,7 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
 | **CenterNet3D** (CenterNet3D:An Anchor free Object Detector for Autonomous Driving) | arxiv2020.07       | L     |
 | **RCD** (Range Conditioned Dilated Convolutions for Scale Invariant 3D Object Detection) | arxiv2020.06       | L     |
 | **VS3D** (Weakly Supervised 3D Object Detection from Point Clouds) [code](https://github.com/Zengyi-Qin/Weakly-Supervised-3D-Object-Detection) | ACM MM2020         | I+L   |
+| **LC-MV** (Multi-View Fusion of Sensor Data for Improved Perception and Prediction in Autonomous Driving) | CoRL2020           | I+L   |
 | To be continued...                                           |                    |       |
 
 ## Code list
