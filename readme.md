@@ -8,6 +8,10 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
 
 ## News
 
+2020.09.15 02 a.m.* Add **RangeRCNN** from Hikvision "RangeRCNN: Towards Fast and Accurate 3D Object Detection with Range Image Representation "
+
+*2020.09.15 02 p.m.* Add code for **CenterNet3D**.
+
 *2020.08.30 10 a.m.* Add **LC-MV** from UBer "Multi-View Fusion of Sensor Data for Improved Perception and Prediction in Autonomous Driving "
 
 ## Paper list
@@ -67,10 +71,11 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
 | **CenterPoint** (Center-based 3D Object Detection and Tracking) [code](https://github.com/tianweiy/CenterPoint) | Arxiv2020          | L     |
 | **AFDet** (AFDet: Anchor Free One Stage 3D Object Detection) | Waymo2020          | L     |
 | **LGR-Net** (Local Grid Rendering Networks for 3D Object Detection in Point Clouds) | arxiv2020.07       | L     |
-| **CenterNet3D** (CenterNet3D:An Anchor free Object Detector for Autonomous Driving) | arxiv2020.07       | L     |
+| **CenterNet3D** (CenterNet3D:An Anchor free Object Detector for Autonomous Driving)[code](https://github.com/wangguojun2018/CenterNet3d) | arxiv2020.07       | L     |
 | **RCD** (Range Conditioned Dilated Convolutions for Scale Invariant 3D Object Detection) | arxiv2020.06       | L     |
 | **VS3D** (Weakly Supervised 3D Object Detection from Point Clouds) [code](https://github.com/Zengyi-Qin/Weakly-Supervised-3D-Object-Detection) | ACM MM2020         | I+L   |
 | **LC-MV** (Multi-View Fusion of Sensor Data for Improved Perception and Prediction in Autonomous Driving) | CoRL2020           | I+L   |
+| **RangeRCNN** (RangeRCNN: Towards Fast and Accurate 3D Object Detection with Range Image Representation) | arxiv2020.09       | L     |
 | To be continued...                                           |                    |       |
 
 ## Code list
