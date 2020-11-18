@@ -8,11 +8,11 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
 
 ## News
 
-2020.09.15 02 a.m.* Add **RangeRCNN** from Hikvision "RangeRCNN: Towards Fast and Accurate 3D Object Detection with Range Image Representation "
+*2020.11.18 p.m.* Add **MVAF-Net**
 
-*2020.09.15 02 p.m.* Add code for **CenterNet3D**.
+*2020.11.18 p.m.* Add **CADNet** which proposes a context-aware and dynamic feature extraction method to handle the variance of density in point clouds.
 
-*2020.08.30 10 a.m.* Add **LC-MV** from UBer "Multi-View Fusion of Sensor Data for Improved Perception and Prediction in Autonomous Driving "
+
 
 ## Paper list
 
@@ -33,7 +33,7 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
 | **FBF**（Fusing Bird’s Eye View LIDAR Point Cloud and Front View Camera Image for Deep Object Detection）[code](https://github.com/ZiningWang/Sparse_Pooling) | Arxiv2018          | I+L   |
 | **RoarNet** (RoarNet: A Robust 3D Object Detection based on Region Approximation Refinement) [code](https://github.com/reinforcementdriving/RoarNet) | IV2019             | I+L   |
 | **PVCNN** (Point-Voxel CNN for Efficient 3D Deep Learning) [code](https://github.com/mit-han-lab/pvcnn) | NIPS2019           | L     |
-| **MMF**[](https://github.com/facebookresearch/votenet) (Multi-Task Multi-Sensor Fusion for 3D Object Detection) | CVPR2019           | I+L   |
+| **MMF**(Multi-Task Multi-Sensor Fusion for 3D Object Detection) [code](https://github.com/facebookresearch/votenet) | CVPR2019           | I+L   |
 | **PointPillars** (PointPillars: Fast Encoders for Object Detection from Point Clouds) [code](https://github.com/traveller59/second.pytorch) | CVPR2019           | L     |
 | **Point RCNN** (PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud) [code](https://github.com/open-mmlab/OpenPCDet) | CVPR2019           | L     |
 | **LaserNet** (LaserNet: An Efficient Probabilistic 3D Object Detector for Autonomous Driving) | CVPR2019           | L     |
@@ -76,6 +76,8 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
 | **VS3D** (Weakly Supervised 3D Object Detection from Point Clouds) [code](https://github.com/Zengyi-Qin/Weakly-Supervised-3D-Object-Detection) | ACM MM2020         | I+L   |
 | **LC-MV** (Multi-View Fusion of Sensor Data for Improved Perception and Prediction in Autonomous Driving) | CoRL2020           | I+L   |
 | **RangeRCNN** (RangeRCNN: Towards Fast and Accurate 3D Object Detection with Range Image Representation) | arxiv2020.09       | L     |
+| **MVAF-Net** (Multi-View Adaptive Fusion Network for 3D Object Detection) | arxiv2020.11       | I+L   |
+| **CADNet** ([Context-Aware Dynamic Feature Extraction for 3D Object Detection in  Point Clouds](http://arxiv.org/abs/1912.04775v3)) | arxiv2020.07       | L     |
 | To be continued...                                           |                    |       |
 
 ## Code list
