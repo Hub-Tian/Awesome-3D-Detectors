@@ -8,11 +8,11 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
 
 ## News
 
+*2020.12.08 p.m.* Add **CIA-SSD**: An IoU-Aware Single-Stage Object Detector .
+
 *2020.12.07 p.m.* Add **CVCNet** which proposes a new multi-view fusion methods and cross-view consistency loss.
 
-*2020.11.25* p.m. Add **DA-PointRCNN**
-
-*2020.11.18 p.m.* Add **MVAF-Net**
+*2020.11.25* p.m. Add **DA-PointRCNN
 
 
 
@@ -83,7 +83,8 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
 | **MVAF-Net** (Multi-View Adaptive Fusion Network for 3D Object Detection) | arxiv2020.11       | I+L   |
 | **CADNet** ([Context-Aware Dynamic Feature Extraction for 3D Object Detection in  Point Clouds](http://arxiv.org/abs/1912.04775v3)) | arxiv2020.07       | L     |
 | **DA-PointRCNN** ([A Density-Aware PointRCNN for 3D Objection Detection in Point Clouds](https://arxiv.org/pdf/2009.05307.pdf)) | axiv2020.09        | L     |
-| **CVCNet**(Every View Counts: Cross-View Consistency in 3D Object Detection with Hybrid-Cylindrical-Spherical Voxelization) | NIPS2020           |       |
+| **CVCNet**(Every View Counts: Cross-View Consistency in 3D Object Detection with Hybrid-Cylindrical-Spherical Voxelization) | NIPS2020           | L     |
+| **CIA-SSD**（CIA-SSD: Confident IoU-Aware Single-Stage Object Detector From Point Cloud）[code](https://github.com/Vegeta2020/CIA-SSD) | AAAI2021           | L     |
 | To be continued...                                           |                    |       |
 
 ## Code list
