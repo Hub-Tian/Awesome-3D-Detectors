@@ -85,6 +85,7 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
 | **DA-PointRCNN** ([A Density-Aware PointRCNN for 3D Objection Detection in Point Clouds](https://arxiv.org/pdf/2009.05307.pdf)) | axiv2020.09        | L     |
 | **CVCNet**(Every View Counts: Cross-View Consistency in 3D Object Detection with Hybrid-Cylindrical-Spherical Voxelization) | NIPS2020           | L     |
 | **CIA-SSD**（CIA-SSD: Confident IoU-Aware Single-Stage Object Detector From Point Cloud）[code](https://github.com/Vegeta2020/CIA-SSD) | AAAI2021           | L     |
+| **IAAY**（[It's All Around You: Range-Guided Cylindrical Network for 3D Object Detection](https://arxiv.org/abs/2012.03121v1)） | arxiv2020          | L     |
 | To be continued...                                           |                    |       |
 
 ## Code list
