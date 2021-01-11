@@ -8,6 +8,8 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
 
 ## News
 
+*2021.1.11 p.m.* Add **SA-Det3D**: Self-Attention Based Context-Aware 3D Object Detection .
+
 *2020.12.08 p.m.* Add **CIA-SSD**: An IoU-Aware Single-Stage Object Detector .
 
 *2020.12.07 p.m.* Add **CVCNet** which proposes a new multi-view fusion methods and cross-view consistency loss.
@@ -86,6 +88,7 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
 | **CVCNet**(Every View Counts: Cross-View Consistency in 3D Object Detection with Hybrid-Cylindrical-Spherical Voxelization) | NIPS2020           | L     |
 | **CIA-SSD**（CIA-SSD: Confident IoU-Aware Single-Stage Object Detector From Point Cloud）[code](https://github.com/Vegeta2020/CIA-SSD) | AAAI2021           | L     |
 | **IAAY**（[It's All Around You: Range-Guided Cylindrical Network for 3D Object Detection](https://arxiv.org/abs/2012.03121v1)） | arxiv2020          | L     |
+| **SA-Det3D** ([Self-Attention Based Context-Aware 3D Object Detection](https://arxiv.org/pdf/2101.02672.pdf))[code](https://github.com/AutoVision-cloud/SA-Det3D) | arxiv2020          | L     |
 | To be continued...                                           |                    |       |
 
 ## Code list
