@@ -4,7 +4,7 @@
 
 This is a paper and code list of some awesome 3D detection methods. We mainly collect LiDAR-involved methods in autonomous driving. It is worth noticing that we include both official and unofficial codes for each paper. 
 
-![paperlist-map](https://github.com/Hub-Tian/Awesome-3D-Detectors/blob/master/paperlist.png)
+![paperlist-map](http://gitlab.hobot.cc/auto/perception/ad/rbdet/docs/RBDet_framework.png)
 
 ## News
 
