@@ -8,13 +8,17 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
 
 ## News
 
+*2020.4.26* p.m. Add **HVPR** and **SE-SSD**.
+
+*2020.3.25* p.m. Add **RangeDet**.
+
 *2021.1.11 p.m.* Add **SA-Det3D**: Self-Attention Based Context-Aware 3D Object Detection .
 
 *2020.12.08 p.m.* Add **CIA-SSD**: An IoU-Aware Single-Stage Object Detector .
 
 *2020.12.07 p.m.* Add **CVCNet** which proposes a new multi-view fusion methods and cross-view consistency loss.
 
-*2020.11.25* p.m. Add **DA-PointRCNN
+
 
 
 
@@ -89,7 +93,12 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
 | **CIA-SSD**（CIA-SSD: Confident IoU-Aware Single-Stage Object Detector From Point Cloud）[code](https://github.com/Vegeta2020/CIA-SSD) | AAAI2021           | L     |
 | **IAAY**（[It's All Around You: Range-Guided Cylindrical Network for 3D Object Detection](https://arxiv.org/abs/2012.03121v1)） | arxiv2020          | L     |
 | **SA-Det3D** ([Self-Attention Based Context-Aware 3D Object Detection](https://arxiv.org/pdf/2101.02672.pdf))[code](https://github.com/AutoVision-cloud/SA-Det3D) | arxiv2020          | L     |
+| **RangeDet**([RangeDet: In Defense of Range View for LiDAR-based 3D Object Detection](https://arxiv.org/abs/2103.10039)) | arxiv2021          | L     |
+| **HVPR**([HVPR: Hybrid Voxel-Point Representation for Single-stage 3D Object Detection](https://arxiv.org/abs/2104.00902v1)) | CVPR2021           | L     |
+| **SE-SSD**([SE-SSD: Self-Ensembling Single-Stage Object Detector From Point Cloud](https://arxiv.org/pdf/2104.09804v1.pdf)) | CVPR2021           | L     |
 | To be continued...                                           |                    |       |
+
+
 
 ## Code list
 
