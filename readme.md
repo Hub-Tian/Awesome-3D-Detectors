@@ -8,6 +8,8 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
 
 ## News
 
+*2021.6.30 a.m.* Add **PPC** from waymo.
+
 *2020.4.26* p.m. Add **HVPR** and **SE-SSD**.
 
 *2020.3.25* p.m. Add **RangeDet**.
@@ -16,7 +18,7 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
 
 *2020.12.08 p.m.* Add **CIA-SSD**: An IoU-Aware Single-Stage Object Detector .
 
-*2020.12.07 p.m.* Add **CVCNet** which proposes a new multi-view fusion methods and cross-view consistency loss.
+
 
 
 
@@ -31,7 +33,7 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
 
 
 | Title                                                        | Pub.               | Input |
-| ------------------------------------------------------------ | ------------------ | ----- |
+| :----------------------------------------------------------- | ------------------ | ----- |
 | **MV3D** (Multi-View 3D Object Detection Network for Autonomous Driving) | CVPR2017           | I+L   |
 | **F-PointNet** (Frustum PointNets for 3D Object Detection from RGB-D Data) [code](https://github.com/charlesq34/frustum-pointnets) | CVPR2018           | I+L   |
 | **VoxelNet** (VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection) | CVPR2018           | L     |
@@ -96,6 +98,7 @@ This is a paper and code list of some awesome 3D detection methods. We mainly co
 | **RangeDet**([RangeDet: In Defense of Range View for LiDAR-based 3D Object Detection](https://arxiv.org/abs/2103.10039)) | arxiv2021          | L     |
 | **HVPR**([HVPR: Hybrid Voxel-Point Representation for Single-stage 3D Object Detection](https://arxiv.org/abs/2104.00902v1)) | CVPR2021           | L     |
 | **SE-SSD**([SE-SSD: Self-Ensembling Single-Stage Object Detector From Point Cloud](https://arxiv.org/pdf/2104.09804v1.pdf)) | CVPR2021           | L     |
+| **PPC**([To the Point: Efficient 3D Object Detection in the Range Image with Graph Convolution Kernels](https://openaccess.thecvf.com/content/CVPR2021/html/Chai_To_the_Point_Efficient_3D_Object_Detection_in_the_Range_CVPR_2021_paper.html)) | CVPR2021           | L     |
 | To be continued...                                           |                    |       |
 
 
